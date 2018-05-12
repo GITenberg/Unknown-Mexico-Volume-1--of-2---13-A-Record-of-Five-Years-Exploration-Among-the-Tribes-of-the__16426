@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '2486'
     url: http://www.gutenberg.org/2009/agents/2486
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16426#Unknown-Mexico-Volume-1--of-2---13-A-Record-of-Five-Years-Exploration-Among-the-Tribes-of-the_
 gutenberg_issued: '2005-08-04'
 gutenberg_type: Text
 identifiers:
